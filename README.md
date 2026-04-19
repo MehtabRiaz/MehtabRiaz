@@ -12,7 +12,7 @@ Senior full-stack engineer focused on **production SaaS**, **real-time data**, a
 
 ## Featured work
 
-* **[Bridge by The Tie](https://mehtabriaz.github.io/portfolio/)** — Enterprise cross-platform messenger (web, mobile, desktop): WebSockets, WebRTC voice, Auth0, multi-tier RBAC, audit trails and retention aligned with **SOX, FINRA, GDPR**. Nuxt 3, Vue 3, TypeScript, Supabase, Tauri.
+* **[Bridge by The Tie](https://chat.thetie.io/)** — Enterprise cross-platform messenger (web, mobile, desktop): WebSockets, WebRTC voice, Auth0, multi-tier RBAC, audit trails and retention aligned with **SOX, FINRA, GDPR**. Nuxt 3, Vue 3, TypeScript, Supabase, Tauri.
 
 * **[The Tie Terminal](https://thetie.io/)** — Institutional crypto terminal: screeners, watchlists, alerts, AI-assisted dashboards over live streams. **Natural language → SQL** with OpenAI (live schema context), AG Grid, Elasticsearch, Rails, AWS.
 
