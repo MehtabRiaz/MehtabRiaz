@@ -96,14 +96,16 @@ TypeScript, Nuxt 3, Vue 3, PostgreSQL, Elasticsearch, Typesense, OpenAI API
 
 ## Education
 
-### University of the Punjab (FCIT) – BS Computer Science
+### Master of Science in Computer Science
+Technische Universität Dresden (TU Dresden)  
+2026 – 2028 (expected)
+
+### Bachelor of Science in Computer Science
+University of the Punjab (FCIT)  
 2018 – 2022 | Lahore, Pakistan  
 GPA: 3.63 / 4.0
 
 Relevant coursework: Data Structures & Algorithms, Artificial Intelligence, Web Engineering, Software Engineering, Network Security, Parallel & Distributed Computing
-
-### Currently pursuing Master’s degree
-Active student status
 
 ## Certifications
 
