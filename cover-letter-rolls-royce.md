@@ -14,7 +14,7 @@ Yours sincerely,
 
 Mehtab Riaz
 mehtabriaz13@gmail.com
-+92 323 776 9152
++49 1523 1890552
 linkedin.com/in/mehtab-riaz
 github.com/MehtabRiaz
 mehtabriaz.github.io/portfolio
