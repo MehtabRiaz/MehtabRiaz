@@ -1,6 +1,6 @@
 # MEHTAB RIAZ
 
-Email: mehtabriaz13@gmail.com | Phone: +92 323 776 9152 | LinkedIn: linkedin.com/in/mehtab-riaz | GitHub: github.com/MehtabRiaz | Portfolio: mehtabriaz.github.io/portfolio | Dresden, Germany
+Email: mehtabriaz13@gmail.com | Phone: +49 1523 1890552 | LinkedIn: linkedin.com/in/mehtab-riaz | GitHub: github.com/MehtabRiaz | Portfolio: mehtabriaz.github.io/portfolio | Dresden, Germany
 
 ## Summary
 Computer Science student with 5+ years of hands-on experience building software products, AI-powered features, and full-stack web applications. Interested in Java, backend systems, REST APIs, and modern AI topics including LLMs, prompt engineering, and RAG. Strong experience in TypeScript, React, Next.js, Node.js, SQL, and AI-assisted product development, with a focus on practical prototypes and product-driven engineering. Eager to contribute in a collaborative working-student environment while continuing studies.
@@ -54,19 +54,26 @@ Jan 2021 – Dec 2021 | Lahore, Pakistan
 ## Projects
 **AI Lead Qualification & Follow-Up System**  
 n8n, OpenAI, PostgreSQL/Supabase, TypeScript, Next.js
-- Built an AI-assisted lead qualification workflow combining deterministic rules and LLM analysis.
-- Designed a structured scoring model to support explainable business decisions.
-- Implemented workflow automation, webhook handling, and audit trails for operational consistency.
+- Built an AI-assisted lead qualification workflow combining deterministic rules and LLM analysis to improve lead triage and follow-up efficiency.
+- Designed a structured scoring model across business fit, urgency, risk, and value to support explainable, data-driven decisions.
+- Implemented workflow automation, webhook handling, retry logic, idempotent processing, and audit trails for operational consistency.
+- Integrated Slack notifications and SLA-driven follow-up logic to support timely human intervention and process automation.
+- Stored and updated lead records in PostgreSQL/Supabase, combining structured business rules with LLM-based classification for better conversion workflows.
 
 **Real-Time Collaborative Editor**  
 React, Node.js, MongoDB, WebSockets, Yjs
 - Built a real-time collaborative editor using CRDT-based synchronization and multi-user editing concepts.
-- Gained practical experience in event-driven systems, presence handling, and real-time application logic.
+- Implemented collaborative presence indicators, document state syncing, and event-driven communication for multi-user editing.
+- Gained practical experience in real-time systems, concurrency handling, and application synchronization logic.
+- Applied access-control and user interaction patterns to support collaborative workflows in a web application context.
 
 **The Tie Terminal – AI & Data Platform**  
 TypeScript, Nuxt 3, Vue 3, PostgreSQL, Elasticsearch, Typesense, OpenAI API
 - Contributed to an AI-enhanced analytics platform used for institutional data discovery, dashboards, and decision support.
-- Integrated search, structured data access, and AI-assisted workflows in a production system.
+- Integrated Elasticsearch and Typesense to power fast, scalable search over structured datasets, news, companies, funds, and on-chain data.
+- Developed AI-assisted workflows and data exploration features to improve analyst productivity and reduce manual research effort.
+- Worked on product features combining structured data, search, dashboards, and LLM-assisted analysis in a production environment.
+- Improved analyst usability by integrating dynamic data views, filtering, and insight-driven interaction patterns across institutional datasets.
 
 ## Certifications
 - Claude Academy: AI Fluency: Framework & Foundations — Anthropic
