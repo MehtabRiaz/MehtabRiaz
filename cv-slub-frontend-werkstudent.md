@@ -93,7 +93,7 @@ Abschlussnote: 3,63 / 4,0
 
 - **Englisch:** sehr gute berufliche Kenntnisse
 - **Urdu:** Muttersprache
-- **Deutsch:** A1, derzeit im aktiven Ausbau
+- **Deutsch:** A2
 
 ## Motivation und Arbeitsweise
 
